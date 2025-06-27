@@ -26,4 +26,4 @@
 
 对接Tips变量(可选)
 
-依赖: LitteMonster
+依赖: LittleMonster
