@@ -1,0 +1,9 @@
+name: ZhuXianTower
+main: TiXYA2357.ZhuXianTower.Main
+description: 诛仙塔
+author: TiXYA2357
+version: 1.0.0-End
+api: [1.0.0]
+load: STARTUP
+depend:
+  - LittleMonster
